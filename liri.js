@@ -90,8 +90,8 @@ else if(command === "do-what-it-says") {
 			command = data;
 		}
 
-		if(command === "my-tweets") {
-			myTweets();
+		if(command === "concert-this") {
+			concertThis();
 		} else if(command === "spotify-this-song") {
 			spotifyThisSong(query);
 		} else if(command === "movie-this") {
