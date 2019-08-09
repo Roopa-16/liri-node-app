@@ -22,7 +22,7 @@ LIRI stands for Language Interpretation and Recognition Interface. This command 
 ## LIRI Step by step 
 ### **Video Guide**
 
-Watch the video here: 
+Watch the video here: https://drive.google.com/file/d/1tU4ybD-Bt0qtxKGp9n5Xv3fS_VL-rZpl/view?usp=sharing
 
 ### **Step by Step instructions**
 
