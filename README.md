@@ -1,5 +1,4 @@
 # liri-node-app
-# liri-node-app
 
 Created by: `Roopa Patel`
 Date created: `August 8th`
